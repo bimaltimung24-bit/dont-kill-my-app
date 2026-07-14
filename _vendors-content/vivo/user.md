@@ -1,4 +1,4 @@
----
+x300 pro 
 manufacturer: 
     - vivo
 
